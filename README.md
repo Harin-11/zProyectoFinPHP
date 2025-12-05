@@ -108,6 +108,3 @@ Proyecto educativo / de ejemplo que sirve como base para gestionar clientes, pro
 Proyecto mantenido por el autor del repositorio. Para dudas o mejoras, abre un issue o contacta vía los canales del repositorio.
 
 
----
-
-*README generado automáticamente para el proyecto local `E001_Backend`. Si quieres, puedo añadir un diseño más visual (badges, capturas de pantalla o ejemplos de uso) y pruebas automatizadas).*
